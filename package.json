@@ -1,0 +1,26 @@
+{
+  "name": "genshinbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "16.9.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "chart.js": "^3.6.0",
+    "chartjs-node-canvas": "^4.1.4",
+    "common-tags": "^1.8.0",
+    "discord-akairo": "github:SkyBlockDev/discord-akairo",
+    "discord.js": "^13.0.1",
+    "dotenv": "^10.0.0",
+    "mongoose": "^6.0.5",
+    "pm2": "^5.1.2"
+  }
+}
